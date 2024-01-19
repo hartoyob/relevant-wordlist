@@ -27,6 +27,7 @@
 15-35
 1500
 1500-an
+15618
 17
 18
 181
@@ -442,6 +443,7 @@ berdarah
 berduka
 beredar
 berencana
+bereskrim
 bergerak
 bergulir
 berhak
@@ -1311,6 +1313,7 @@ isi
 isinya
 iskandar
 islam
+islandia
 israel
 issue
 istana
@@ -1390,6 +1393,7 @@ joget
 join
 jokowi
 jorr
+joyday
 jpmorgan
 jreng
 jual
@@ -1582,6 +1586,7 @@ kerok
 keroyok
 kertanegara
 kerugian
+kerusakan
 kesah
 kesaksian
 kesaktian
@@ -1756,6 +1761,7 @@ latih
 launch
 laura
 laut
+lava
 lawan
 lawu
 layani
@@ -1938,6 +1944,7 @@ melejit
 melek
 melemah
 melesat
+meletus
 melihat
 melimpah
 melorot
@@ -2295,6 +2302,7 @@ park
 parlemen
 parpol
 partai
+partner
 paruh
 pasaman
 pasang
@@ -3306,6 +3314,7 @@ thohir
 thoifur
 through
 tiang
+tiba
 tiba-tiba
 tidak
 tidur

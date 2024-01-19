@@ -27,6 +27,7 @@
 15-35
 1500
 1500-an
+15618
 17
 18
 181
@@ -443,6 +444,7 @@ Berdarah
 Berduka
 Beredar
 Berencana
+Bereskrim
 Bergerak
 Bergulir
 Berhak
@@ -930,6 +932,7 @@ Erick
 Eropa
 Estate
 Etis
+Event
 FEB
 FOTO
 Facebook
@@ -1222,6 +1225,7 @@ Isi
 Isinya
 Iskandar
 Islam
+Islandia
 Israel
 Issue
 Istana
@@ -1299,6 +1303,7 @@ Joe
 Joget
 Join
 Jokowi
+Joyday
 Jreng
 Jual
 Jual-Beli
@@ -1501,6 +1506,7 @@ Kerok
 Keroyok
 Kertanegara
 Kerugian
+Kerusakan
 Kesah
 Kesaksian
 Kesaktian
@@ -1666,6 +1672,7 @@ Laris
 Latih
 Laura
 Laut
+Lava
 Lawan
 Lawu
 Layani
@@ -1839,6 +1846,7 @@ Melejit
 Melek
 Melemah
 Melesat
+Meletus
 Melihat
 Melimpah
 Melorot
@@ -2196,6 +2204,7 @@ Park
 Parlemen
 Parpol
 Partai
+Partner
 Paruh
 Pasaman
 Pasang
@@ -3137,6 +3146,7 @@ This
 Thohir
 Thoifur
 Tiang
+Tiba
 Tiba-Tiba
 Tiba-tiba
 Tidak
