@@ -3,3 +3,15 @@ https://www.viva.co.id/get/all
 https://republika.co.id/rss
 https://www.voaindonesia.com/api/zmgqoebmoi
 https://news.detik.com/rss
+http://coconuts.co/jakarta/feed/
+https://www.antaranews.com/rss/ekonomi
+https://www.suara.com/rss/bisnis
+https://www.vice.com/id/rss?locale=id_id
+https://rss.tempo.co/nasional
+https://www.cnnindonesia.com/ekonomi/rss
+https://www.cnnindonesia.com/nasional/rss
+https://www.cnbcindonesia.com/news/rss
+https://www.cnbcindonesia.com/market/rss/
+https://www.republika.co.id/rss
+https://zetizen.jawapos.com/rss/all
+https://lapi.kumparan.com/v2.0/rss/
