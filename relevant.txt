@@ -360,6 +360,7 @@ Adaptation
 Adat
 Added
 Ade
+Adegan
 Adelaide
 Adelanto
 Aden
@@ -488,9 +489,11 @@ Almost
 Alokasi
 Alokasikan
 AlphaTauri
+Alquran
 Already
 Alsynov
 Altman
+Alung
 Alur
 Alutsista
 Alvaro
@@ -719,6 +722,7 @@ Athletics
 Atikoh
 Atlanta
 Atlantic
+Atlas
 Atlassian
 Atletico
 Atmosphere
@@ -824,6 +828,7 @@ Baasyir
 Babel
 Babuks
 Baby
+Bacaan
 Back
 Backing
 Bacok
@@ -2123,6 +2128,7 @@ Dikabarkan
 Dikabulkan
 Dikaitkan
 Dikalahkan
+Dikasih
 Dikepung
 Dikerahkan
 Dikoleksi
@@ -2167,6 +2173,7 @@ Dipastikan
 Dipenjara
 Dipenjarakan
 Dipenuhi
+Diperagakan
 Dipercepat
 Diperiksa
 Diperintah
@@ -2352,6 +2359,7 @@ Dry
 Du
 Dua
 Dubai
+Dubes
 Dublin
 Ducati
 Duck
@@ -2462,6 +2470,7 @@ Else
 Elton
 Elyse
 Emak-emak
+Emang
 Emas
 Embiid
 Embiids
@@ -2600,6 +2609,7 @@ Facility
 Facing
 Faculty
 Fading
+Fahd
 Fail
 Failure
 Faisal
@@ -2896,6 +2906,7 @@ Gham
 Ghana
 Ghanaian
 Ghazali
+Ghunnah
 Giamatti
 Giant
 Giants
@@ -3337,6 +3348,7 @@ Ilham
 Ill
 Illegal
 Illinois
+Ilmu
 Im
 Images
 Imbas
@@ -3400,6 +3412,7 @@ Infografis
 Infonya
 Informal
 Informasi
+Informasinya
 Infrastruktur
 Infringement
 Ingat
@@ -4103,6 +4116,7 @@ Komoditas
 Komoditi
 Kompak
 Kompas
+Kompleks
 Kompleksitas
 Kompolnas
 Komponen
@@ -4425,6 +4439,7 @@ Loan
 Lobi
 Local
 Location
+Locker
 Logam
 Logging
 Logistik
@@ -4462,6 +4477,7 @@ Lowongan
 Loyalty
 Loyo
 Ltd
+Lu
 Luar
 Luas
 Lubuklinggau
@@ -4891,6 +4907,7 @@ Merah
 Merapi
 Merek
 Mereka
+Merger
 Meriahnya
 Merona
 Merongrong
@@ -5021,6 +5038,7 @@ Mongondow
 Monica
 Monitoring
 Monk
+Monophosphate
 Monopoli
 Monsoon
 Monster
@@ -5063,6 +5081,7 @@ Movie
 Movies
 Moving
 Mrta
+Muamalat
 Muath
 Muda
 Mudah
@@ -5387,6 +5406,7 @@ Ojol
 Okie
 Oklahoma
 Oknum
+Okupansi
 Oladele
 Oladghobad
 Old
@@ -5611,6 +5631,7 @@ Pantau
 Pantouw
 Pantura
 Papan
+Paparkan
 Papers
 Papua
 Para
@@ -5827,6 +5848,7 @@ Pengisian
 Penguasa
 Penguatan
 Pengumuman
+Pengunduran
 Pengungsi
 Pengunjung
 Pengusaha
@@ -5887,6 +5909,7 @@ Perbulan
 Percepat
 Percepatan
 Perceraian
+Percetakan
 Percintaan
 Perdagangan
 Perdamaian
@@ -6418,6 +6441,7 @@ Rekan
 Rekayasa
 Reklamasi
 Rekomendasi
+Rekonstruksi
 Rekor
 Rekrut
 Rekrutmen
@@ -6577,6 +6601,7 @@ Rompas
 Romusha
 Romy
 Ron
+Room
 Roosevelt
 Rootkit
 Rorys
@@ -7067,6 +7092,7 @@ Siap
 Siap-Siap
 Siap-siap
 Siapa
+Siape
 Siapkan
 Siaran
 Siasat
@@ -7155,6 +7181,7 @@ Skuad
 Slash
 Slavina
 Slaying
+Slepet
 Sliding
 Sloans
 Slovakia
@@ -7500,6 +7527,7 @@ Tahun
 Taiwan
 Taiwanese
 Taiwans
+Tajwid
 Tak
 Take
 Takeaways
@@ -8198,6 +8226,7 @@ WHO
 WIUP
 WLDWEST
 WM
+WN
 WNI
 WNI-Ras
 WR

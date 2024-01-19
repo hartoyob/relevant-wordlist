@@ -362,6 +362,7 @@ address
 addresses
 adds
 ade
+adegan
 adelaide
 adelanto
 aden
@@ -549,12 +550,14 @@ alokasikan
 alone
 along
 alphatauri
+alquran
 already
 also
 alsynov
 alternative
 altman
 aluminum
+alung
 alur
 alutsista
 alvaro
@@ -946,6 +949,7 @@ babel
 babies
 babuks
 baby
+bacaan
 back
 backdoor
 backers
@@ -2727,6 +2731,7 @@ dikabarkan
 dikabulkan
 dikaitkan
 dikalahkan
+dikasih
 dikepung
 dikerahkan
 dikoleksi
@@ -2773,6 +2778,7 @@ dipastikan
 dipenjara
 dipenjarakan
 dipenuhi
+diperagakan
 dipercepat
 diperiksa
 diperintah
@@ -3041,6 +3047,7 @@ dryer
 du
 dua
 dubai
+dubes
 dublin
 ducati
 duck
@@ -3168,6 +3175,7 @@ elton
 elyse
 emails
 emak-emak
+emang
 emas
 embiid
 embiids
@@ -3397,6 +3405,7 @@ facing
 factory
 faculty
 fading
+fahd
 fail
 failed
 failing
@@ -3832,6 +3841,7 @@ gham
 ghana
 ghanaian
 ghazali
+ghunnah
 giamatti
 giant
 giants
@@ -4409,6 +4419,7 @@ ill
 illegal
 illinois
 illness
+ilmu
 im
 image
 images
@@ -4507,6 +4518,7 @@ infografis
 infonya
 informal
 informasi
+informasinya
 information
 informs
 infrastructure
@@ -5288,6 +5300,7 @@ komoditas
 komoditi
 kompak
 kompas
+kompleks
 kompleksitas
 kompolnas
 komponen
@@ -5680,6 +5693,7 @@ location
 locations
 lock
 lockdown
+locker
 locks
 logam
 logging
@@ -5743,6 +5757,7 @@ lps
 lrt
 lsi
 ltd
+lu
 luar
 luas
 lubuklinggau
@@ -6364,6 +6379,7 @@ mongondow
 monica
 monitoring
 monk
+monophosphate
 monopoli
 monoxide
 monsoon
@@ -6422,6 +6438,7 @@ mps
 mrt
 mrta
 ms
+muamalat
 muath
 much
 muda
@@ -6811,6 +6828,7 @@ ojol
 okie
 oklahoma
 oknum
+okupansi
 oladele
 oladghobad
 old
@@ -7043,6 +7061,7 @@ pantouw
 pantura
 pap
 papan
+paparkan
 paper
 papers
 papua
@@ -7302,6 +7321,7 @@ pengoperasian
 penguasa
 penguatan
 pengumuman
+pengunduran
 pengungsi
 pengunjung
 pengusaha
@@ -7366,6 +7386,7 @@ percent
 percepat
 percepatan
 perceraian
+percetakan
 percintaan
 perdagangan
 perdamaian
@@ -8160,6 +8181,7 @@ rekayasa
 reklamasi
 rekomendasi
 rekomendasikan
+rekonstruksi
 rekor
 rekrut
 rekrutmen
@@ -8424,6 +8446,7 @@ romping
 romusha
 romy
 ron
+room
 roosevelt
 rooted
 rootkit
@@ -8993,6 +9016,7 @@ siang
 siap
 siap-siap
 siapa
+siape
 siapkan
 siaran
 siasat
@@ -9116,6 +9140,7 @@ slapped
 slash
 slavina
 slaying
+slepet
 slide
 slides
 sliding
@@ -9642,6 +9667,7 @@ tail
 taiwan
 taiwanese
 taiwans
+tajwid
 tak
 take
 takeaways
@@ -10782,6 +10808,7 @@ wiwoho
 wizards
 wldwest
 wm
+wn
 wni
 wni-ras
 wolf
