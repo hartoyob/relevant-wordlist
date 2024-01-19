@@ -112,6 +112,7 @@ Asal
 Asia
 Atas
 Atasi
+Atletico
 Aturan
 Awan
 Award
@@ -262,6 +263,7 @@ Cinta
 Ciptakan
 Cirebon
 Cohn
+Copa
 Crazy
 Crystal
 Cuaca
@@ -285,6 +287,7 @@ Debat
 Dede
 Deforestasi
 Deklarasi
+Del
 Demo
 Demokrat
 Depan
@@ -346,6 +349,7 @@ Direndahkan
 Disebar
 Disebut
 Disengat
+Disingkirkan
 Disukai
 Ditambah
 Ditembak
@@ -578,6 +582,7 @@ Kabupaten
 Kader
 Kalangan
 Kalap
+Kalbar
 Kali
 Kalteng
 Kamar
@@ -585,6 +590,7 @@ Kamisan
 Kampanye
 Kampung
 Kamu
+Kandidat
 Kandung
 Kaneishia
 Kantor
@@ -1130,6 +1136,7 @@ Resep
 Resmikan
 Respons
 Responsnya
+Rey
 Ribu
 Ribuan
 Rich
@@ -1318,6 +1325,7 @@ Tangis
 Tangkap
 Tangsel
 Tanpa
+Tantowi
 Target
 Targetkan
 Tarif

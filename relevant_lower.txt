@@ -114,6 +114,7 @@ astro
 atas
 atasi
 atau
+atletico
 aturan
 awan
 award
@@ -263,6 +264,7 @@ cinta
 ciptakan
 cirebon
 cohn
+copa
 covid-19
 crazy
 crystal
@@ -285,6 +287,7 @@ debat
 dede
 deforestasi
 deklarasi
+del
 demo
 demokrat
 dengan
@@ -348,6 +351,7 @@ direndahkan
 disebar
 disebut
 disengat
+disingkirkan
 disukai
 ditambah
 ditembak
@@ -579,6 +583,7 @@ kabupaten
 kader
 kalangan
 kalap
+kalbar
 kali
 kalteng
 kamar
@@ -586,6 +591,7 @@ kamisan
 kampanye
 kampung
 kamu
+kandidat
 kandung
 kaneishia
 kantor
@@ -1137,6 +1143,7 @@ resep
 resmikan
 respons
 responsnya
+rey
 rfg
 ri
 ribu
@@ -1323,6 +1330,7 @@ tangis
 tangkap
 tangsel
 tanpa
+tantowi
 tapi
 target
 targetkan
