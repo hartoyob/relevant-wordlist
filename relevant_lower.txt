@@ -156,6 +156,7 @@ bebas
 begal
 begini
 beli
+beliau
 beliung
 bella
 bellucci
@@ -880,6 +881,7 @@ nasional
 natal
 nato
 negara
+negarawan
 negosiasi
 nekat
 netizen
@@ -939,6 +941,7 @@ palace
 palestina
 palsu
 pameran
+pan
 panas
 panasnya
 pandemi

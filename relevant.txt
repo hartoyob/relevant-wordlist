@@ -162,6 +162,7 @@ Bebas
 Begal
 Begini
 Beli
+Beliau
 Beliung
 Bella
 Bellucci
@@ -875,6 +876,7 @@ Nasib
 Nasional
 Natal
 Negara
+Negarawan
 Negosiasi
 Nekat
 Netizen
@@ -917,6 +919,7 @@ Optimistis
 Orang
 Organisasi
 Otto
+PAN
 PDIP
 PIN
 PKB
