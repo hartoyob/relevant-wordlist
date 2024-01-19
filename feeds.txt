@@ -1,1 +1,5 @@
 https://www.merdeka.com/feed
+https://www.viva.co.id/get/all
+https://republika.co.id/rss
+https://www.voaindonesia.com/api/zmgqoebmoi
+https://news.detik.com/rss
