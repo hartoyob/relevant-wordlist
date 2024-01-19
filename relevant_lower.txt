@@ -155,6 +155,7 @@
 28
 29
 29-year-old
+296
 297
 2nd
 3
@@ -760,6 +761,7 @@ area
 arena
 arevalo
 argentina
+argentinas
 argentine
 argiyan
 arguably
@@ -845,6 +847,7 @@ assignment
 assistant
 assistants
 associated
+asta
 astro
 astrobotics
 astrology
@@ -1367,6 +1370,7 @@ billion
 billionaire-backed
 billionaires
 binaan
+binance
 binatang
 bingung
 bintan
@@ -1981,6 +1985,7 @@ cirebon-1
 ciri-ciri
 cisa
 cisco
+cita
 cites
 cities
 citigroup
@@ -2397,6 +2402,7 @@ dangerous
 dangers
 daniel
 danny
+danone
 danpuspomad-kepala
 dansa
 dapat
@@ -2843,6 +2849,7 @@ diskon
 diskotek
 diskusi
 dismantling
+dismissal
 dismissed
 dismisses
 disney
@@ -3524,6 +3531,7 @@ first-ever
 first-place
 first-round
 fish
+fishermen
 fishing
 fishtown
 fisik
@@ -5021,6 +5029,7 @@ kejriwal
 kejutan
 kek
 kekasih
+kekayaan
 kekerasan
 kekeringan
 kekhawatiran
@@ -5149,6 +5158,7 @@ ketat
 ketegangan
 ketenagakerjaan
 keterampilan
+keterangan
 keterbatasan
 keterlibatan
 ketertiban
@@ -5582,6 +5592,7 @@ lg
 lgbt
 lgbtq
 lhk
+lhkpn
 lho
 liar
 libas
@@ -5608,6 +5619,7 @@ like
 likely
 likened
 likuiditas
+lima
 limit
 limits
 lina
@@ -5713,6 +5725,7 @@ lower
 lowers
 lowest
 lowland
+lowongan
 loyalists
 loyalty
 loyo
@@ -6120,6 +6133,7 @@ menghadap
 menghadapi
 menghantui
 mengintip
+mengirim
 menguat
 mengulik
 mengundurkan
@@ -6710,6 +6724,7 @@ novo
 now
 np3ba
 npm
+ntb
 ntl
 nu
 nuclear
@@ -6990,6 +7005,7 @@ panan
 panas
 panasnya
 panda
+pandawa
 pandeglang
 pandemi
 pandemic
@@ -7312,6 +7328,7 @@ penyebab
 penyebabnya
 penyebar
 penyebaran
+penyelenggara
 penyelesaian
 penyelidikan
 penyiaran
@@ -7355,6 +7372,7 @@ perfect
 perform
 performance
 pergerakan
+pergi
 perhatian
 perhatikan
 perhiasan
@@ -7913,6 +7931,7 @@ pushback
 pushed
 pushing
 pusing
+puskesmas
 put
 putaran
 putih
@@ -8084,6 +8103,7 @@ recent
 recipes
 recipients
 reconsider
+reconsiders
 record
 recording
 recordings
@@ -8118,7 +8138,9 @@ regions
 register
 registers
 registration
+regrets
 regulate
+regulation
 rehabilitasi
 reigning
 reissue
@@ -8683,6 +8705,7 @@ seberapa
 sebesar
 sebuah
 sebut
+sec
 secara
 second
 secondary
@@ -9409,6 +9432,7 @@ stunned
 stunner
 stunting
 stupid
+style
 styling
 su
 suaka

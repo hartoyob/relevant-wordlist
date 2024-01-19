@@ -155,6 +155,7 @@
 28
 29
 29-Year-Old
+296
 297
 2nd
 3
@@ -643,6 +644,7 @@ Area
 Arena
 Arevalo
 Argentina
+Argentinas
 Argentine
 Argiyan
 Argyle
@@ -700,6 +702,7 @@ Assaulted
 Assaults
 Assembly
 Assistant
+Asta
 Astro
 Astrobotics
 Astrology
@@ -1186,6 +1189,7 @@ Billie
 Billionaire-backed
 Billionaires
 Binaan
+Binance
 Binatang
 Bingung
 Bintan
@@ -1216,6 +1220,7 @@ Blazers
 Blinken
 Blinkens
 Blitar
+Block
 Blockbuster
 Blocks
 Blood
@@ -1602,6 +1607,7 @@ Cirebon
 Cirebon-1
 Ciri-Ciri
 Cisco
+Cita
 Citigroup
 Citilink-Garuda
 Citizen
@@ -1876,6 +1882,7 @@ Dandim
 Danger
 Daniel
 Danny
+Danone
 Danpuspomad-Kepala
 Dansa
 Dapat
@@ -2674,6 +2681,7 @@ Firli
 Firm
 Firms
 First
+Fishermen
 Fishtown
 Fisik
 Fisker
@@ -3864,6 +3872,7 @@ Kejar
 Kejriwal
 Kejutan
 Kekasih
+Kekayaan
 Kekerasan
 Kekeringan
 Kekhawatiran
@@ -3989,6 +3998,7 @@ Ketat
 Ketegangan
 Ketenagakerjaan
 Keterampilan
+Keterangan
 Keterbatasan
 Keterlibatan
 Ketertiban
@@ -4198,6 +4208,7 @@ LG
 LGBT
 LGBTQ
 LHK
+LHKPN
 LIVE
 LPDP
 LPG
@@ -4368,6 +4379,7 @@ Lights
 Like
 Likely
 Likuiditas
+Lima
 Limit
 Limits
 Lina
@@ -4440,6 +4452,7 @@ Louis
 Louisa
 Love
 Loved
+Lowongan
 Loyalty
 Loyo
 Ltd
@@ -4824,6 +4837,7 @@ Menghadap
 Menghadapi
 Menghantui
 Mengintip
+Mengirim
 Menguat
 Mengulik
 Mengundurkan
@@ -5113,6 +5127,7 @@ NICE
 NIM
 NKRI
 NP3BA
+NTB
 NTL
 NU
 NY
@@ -5523,6 +5538,7 @@ Page
 Pages
 Pagi
 Paham
+Pahami
 Pahlawan
 Paints
 Pajak
@@ -5562,6 +5578,7 @@ Panan
 Panas
 Panasnya
 Panda
+Pandawa
 Pandeglang
 Pandemi
 Pandemic
@@ -5835,6 +5852,7 @@ Penyebab
 Penyebabnya
 Penyebar
 Penyebaran
+Penyelenggara
 Penyelesaian
 Penyelidikan
 Penyiaran
@@ -5874,6 +5892,7 @@ Perempuan
 Perform
 Performance
 Pergerakan
+Pergi
 Perhatian
 Perhatikan
 Perhiasan
@@ -6231,6 +6250,7 @@ Pusat
 Push
 Pushed
 Pusing
+Puskesmas
 Putaran
 Putih
 Putin
@@ -6381,6 +6401,7 @@ Regardless
 Regional
 Regions
 Registration
+Regulation
 Rehabilitasi
 Reigning
 Reissue
@@ -6648,6 +6669,7 @@ SCOTUS
 SD
 SDG
 SDM
+SEC
 SEKOLAH
 SEPTA
 SEVENTEEN
@@ -6892,6 +6914,7 @@ Sembilan
 Semburkan
 Sementara
 Semester
+Semi
 Sempat
 Semprot
 Sempurna
@@ -7302,6 +7325,7 @@ Studio
 Studios
 Study
 Stunting
+Style
 Styling
 Su
 Suaka
@@ -9396,6 +9420,7 @@ discredit
 disease
 disgusted
 dismantling
+dismissal
 dismissed
 dismisses
 displaying
@@ -11099,6 +11124,7 @@ recent
 recipes
 recipients
 reconsider
+reconsiders
 record
 recording
 recordings
@@ -11120,6 +11146,7 @@ region
 regional
 register
 registers
+regrets
 regulate
 reject
 rejects
