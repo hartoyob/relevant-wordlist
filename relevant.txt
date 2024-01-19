@@ -281,6 +281,7 @@ AI
 AI-SaaS
 AI-generated
 AI-powered
+AI-related
 AIDS
 AM
 AMAR
@@ -639,6 +640,7 @@ Arena
 Arevalo
 Argentina
 Argentine
+Argiyan
 Argyle
 Ariana
 Arjun
@@ -674,6 +676,7 @@ As
 Asaf
 Asal
 Asap
+Asas
 Asesmen
 Aset
 Ashraf
@@ -740,6 +743,7 @@ Avalon
 Avatar
 Average
 Avert
+Averted
 Avoid
 Avoiding
 Avtur
@@ -869,6 +873,7 @@ Ball
 Ballard
 Ballot
 Ballys
+Balochistan
 Baluchistan
 Bambang
 Bamsoet
@@ -1165,6 +1170,7 @@ Bidets
 Bidik
 Big
 Biggest
+Bighunnah
 Bikin
 Bila
 Bilang
@@ -1205,6 +1211,7 @@ Blazers
 Blinken
 Blinkens
 Blitar
+Blockbuster
 Blocks
 Blood
 Bloomberg
@@ -1293,6 +1300,7 @@ Brits
 Brittish
 Brittney
 Broad
+Broadcoms
 Broadway
 Broja
 Broken
@@ -1388,6 +1396,7 @@ COVID
 COVID-19
 CPNS
 CPU
+CSU
 CTU
 CU
 CUAN
@@ -1538,6 +1547,7 @@ Chase
 Chasing
 Chat
 ChatGPT
+Cheap
 Cheaper
 Chelli
 Chelsea
@@ -1622,6 +1632,7 @@ Cobb
 Cocaine
 Coco
 Code
+Coffee
 Coffey
 Coffin
 Cognitive
@@ -1686,6 +1697,7 @@ Conservatism
 Constitutional
 Contact
 Contempt
+Contoh
 Conundrum
 Convicts
 Conway
@@ -2019,6 +2031,7 @@ Dibanding
 Dibantah
 Dibawa
 Dibayar
+Diberhentikan
 Dibersihkan
 Dibicarakan
 Dibintangi
@@ -2239,6 +2252,7 @@ Divisi
 Divonis
 Divorce
 Diwacanakan
+Diyakini
 Djaja
 Djaya
 Djelantik
@@ -2333,6 +2347,7 @@ Duit
 Duitnya
 Dukung
 Dukungan
+Dukungannya
 Dulu
 Dunia
 Dunlop
@@ -2439,6 +2454,7 @@ Emmy
 Emmys
 Emosi
 Empat
+Empire
 Employment
 Empowering
 Empty
@@ -2685,6 +2701,7 @@ Forbes
 Forced
 Forces
 Ford
+Fore
 Forecast
 Foreign
 Forest
@@ -2799,6 +2816,7 @@ Gatsu
 Gauff
 Gaungkan
 Gave
+Gavin
 Gawat
 Gaya
 Gayus
@@ -2882,12 +2900,14 @@ Glory
 Go
 Goa
 Goal
+Goblins
 Gocap
 Goes
 Gogh
 Going
 Gold
 Golden
+Goldman
 Golf
 Golkan
 Golkar
@@ -3012,6 +3032,7 @@ Haji
 Hak
 Hakim
 Hal
+Halal
 Halaman
 Haley
 Haleys
@@ -3274,6 +3295,7 @@ Icy
 Ideal
 Ideas
 Identity
+Idgham
 Idolaku
 If
 Iga
@@ -3354,6 +3376,7 @@ Informal
 Informasi
 Infrastruktur
 Infringement
+Ingat
 Ingatkan
 Inggris
 Ingin
@@ -3480,6 +3503,7 @@ Jagung
 Jahanam
 Jahat
 Jail
+Jajaran
 Jakarta
 Jakarta-Bandung
 Jakarta-Labuan
@@ -3708,6 +3732,7 @@ Kalap
 Kalau
 Kalbar
 Kali
+Kalor
 Kalteng
 Kaluuya
 Kamar
@@ -3824,6 +3849,7 @@ Kekasih
 Kekerasan
 Kekeringan
 Kekhawatiran
+Kekinian
 Kekuasaan
 Kekuatan
 Kekurangan
@@ -3941,6 +3967,7 @@ Ketahui
 Ketakutan
 Ketar-ketir
 Ketat
+Ketegangan
 Ketenagakerjaan
 Keterampilan
 Keterbatasan
@@ -4068,6 +4095,7 @@ Kontrakan
 Kontraktor
 Kontrol
 Kontroversi
+Konveksi
 Konversi
 Koordinasi
 Koper
@@ -4189,6 +4217,7 @@ Lakukan
 Lala
 Lalin
 Lalla
+Lallas
 Lalu
 Lama
 Lamban
@@ -4514,6 +4543,7 @@ Maldives
 Malibu
 Malicious
 Maling
+Malls
 Malone
 Malware
 Mama
@@ -4701,6 +4731,7 @@ Memaksimalkan
 Memalukan
 Memanas
 Memangnya
+Membacanya
 Membaik
 Membantu
 Membeku
@@ -4754,6 +4785,7 @@ Mengakui
 Mengalir
 Mengandung
 Mengapa
+Mengarahkan
 Mengaspal
 Mengecor
 Mengejutkan
@@ -4948,6 +4980,7 @@ Monk
 Monopoli
 Monsoon
 Monster
+Montessus
 Monumen
 Mood
 Moon
@@ -5113,6 +5146,7 @@ Navarro
 Navy
 NazAPI
 Nazi
+Nazi-collaborators
 Nazis
 Ndi
 Nearly
@@ -5268,6 +5302,7 @@ Nyangkut
 Nyaris
 Nyata
 Nyatakan
+Nyepi
 Nyinyirin
 Nyoblos
 O-Block
@@ -5352,6 +5387,7 @@ Orban
 Orchestra
 Order
 Ordered
+Orders
 Oregon
 Organisasi
 Organization
@@ -5472,6 +5508,7 @@ Pakan
 Pakar
 Paket
 Pakistan
+Pakistan-Iran
 Pakistani
 Pakistans
 Paksa
@@ -5701,6 +5738,7 @@ Pencari
 Pencoblosan
 Pendanaan
 Pendapat
+Pendek
 Pendengarnya
 Pendidikan
 Penduduk
@@ -5788,6 +5826,7 @@ Perangnya
 Peras
 Perawatannya
 Perayaan
+Perbaikan
 Perbaiki
 Perbankan
 Perbedaan
@@ -5842,6 +5881,7 @@ Pernyataan
 Perombakan
 Perpanjang
 Perpecahan
+Perpindahan
 Perppu
 Perrys
 Persen
@@ -6149,6 +6189,7 @@ Pulau
 Pulih
 Pulsa
 Puluhan
+Pun
 Puncak
 Punggung
 Pungli
@@ -6476,6 +6517,7 @@ Rombak
 Rombongan
 Rompas
 Romusha
+Romy
 Ron
 Roosevelt
 Rootkit
@@ -6584,6 +6626,7 @@ SFO
 SHID
 SILO
 SIM
+SKB
 SKK
 SMA
 SMAN
@@ -6658,6 +6701,7 @@ Salted
 Salurkan
 Sam
 Sama
+Sambut
 Same
 Sampah
 Sampai
@@ -6703,6 +6747,7 @@ Sayembara
 Saykoji
 Says
 Sayuri
+Sbastien
 Scamming
 Scan
 ScanBox
@@ -6991,6 +7036,7 @@ Siloam
 Silva
 Simak
 Simbol
+Simi
 Simmons
 Simon
 Simons
@@ -7050,6 +7096,7 @@ Sliding
 Sloans
 Slovakia
 Slowly
+Sludge
 Small
 Smart
 Smartphone
@@ -7476,6 +7523,7 @@ Teased
 Teases
 Tebak
 Tebal
+Tebar
 Tebas
 Tebet
 Tebu
@@ -7607,6 +7655,7 @@ Terminal
 Ternyata
 Teroris
 Terpanjang
+Terpengaruh
 Terpercaya
 Terpidana
 Terpisah
@@ -7808,6 +7857,7 @@ Trick
 Tricks
 Triggers
 Trik
+Trikon
 Triliun
 Triliunan
 Trip
@@ -8015,6 +8065,7 @@ VTA
 VTOL
 Vacation
 Vaksin
+Valley
 Van
 Vans
 Vehicle
@@ -8302,6 +8353,7 @@ Yeoh
 Yes
 Yo
 Yoasobi
+Yogyakarta
 Yordania
 York
 You
@@ -8471,6 +8523,7 @@ allow
 allowance
 allowing
 almost
+alone
 along
 also
 alternative
@@ -8726,6 +8779,8 @@ blowout
 blows
 blueprint
 board
+boarding
+boards
 boat
 boba
 body
@@ -8806,6 +8861,7 @@ buru
 bus
 buses
 business
+businesses
 but
 buy
 buy-in
@@ -9018,8 +9074,10 @@ complex
 complicated
 complication
 complicity
+compost
 comprehensive
 computer
+concept
 concerning
 concerns
 concert
@@ -9344,8 +9402,10 @@ doomsday
 door
 doorbell
 double
+double-digit
 doubled
 doubles
+doubts
 down
 down-to-earth
 downed
@@ -9483,6 +9543,7 @@ everywhere
 eviction
 evidence
 evocative
+ex-German
 ex-Polish
 ex-Sharks
 ex-Stanford
@@ -9539,6 +9600,7 @@ faces
 facility
 facing
 factory
+faculty
 fail
 failed
 failing
@@ -9792,6 +9854,7 @@ gridlock
 grizzlies
 grocery
 groove
+ground
 groundbreaking
 group
 groups
@@ -9982,6 +10045,7 @@ iconic
 icy
 ideas
 identified
+identifying
 ideology
 idol
 idols
@@ -10051,6 +10115,7 @@ instant
 instead
 institutionalized
 instructs
+insult
 insurance
 insurrectionist
 integration
@@ -10125,6 +10190,7 @@ ke-10
 ke-26
 ke-4
 ke-52
+ke-75
 ke-78
 kebijakan
 keep
@@ -10232,6 +10298,7 @@ levels
 lex
 liar
 libel
+library
 license
 lid
 life
@@ -10254,6 +10321,7 @@ listened
 listeria
 listrik
 litigation
+little
 live
 live-broadcast
 lived
@@ -10372,6 +10440,7 @@ mercenaries
 merchant
 merdekacom
 meresmikan
+merger
 mess
 message
 mesti
@@ -10379,6 +10448,7 @@ met
 metres
 metrics
 microelectronics
+microplastics
 middleweight
 midfielder
 midfielders
@@ -10440,6 +10510,7 @@ move
 moved
 moves
 movie
+movies
 much
 multi-instrumentalist
 multiple
@@ -10753,6 +10824,7 @@ plow
 plug
 plugin
 plummeted
+plummets
 plunge
 plus
 plying
@@ -10830,6 +10902,7 @@ president
 presidential
 presidents
 press
+presses
 prevent
 price
 prices
@@ -10983,6 +11056,7 @@ really
 reason
 reasons
 rebels
+rebounded
 recall
 recalls
 receive
@@ -11006,6 +11080,7 @@ reflection
 reform
 refreshes
 refusal
+regardless
 regiments
 region
 regional
@@ -11274,6 +11349,7 @@ sex
 sexual
 sexy
 shake
+shaking
 shame
 shape
 share
@@ -11404,6 +11480,9 @@ sonar
 sons
 sorry
 sort
+sound
+source
+sources
 spaceship
 spacious
 spark
@@ -11667,6 +11746,7 @@ tetapi
 text
 texted
 than
+thanks
 that
 thats
 the
@@ -11997,6 +12077,7 @@ western
 whack
 what
 when
+whenever
 where
 which
 while
@@ -12047,6 +12128,7 @@ words
 work
 worker
 workers
+workforce
 working
 workplace
 world

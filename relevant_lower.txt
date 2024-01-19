@@ -443,6 +443,7 @@ ahy
 ai
 ai-generated
 ai-powered
+ai-related
 ai-saas
 aid
 aide
@@ -541,6 +542,7 @@ alloys
 almost
 alokasi
 alokasikan
+alone
 along
 alphatauri
 already
@@ -755,6 +757,7 @@ arena
 arevalo
 argentina
 argentine
+argiyan
 arguably
 argument
 arguments
@@ -805,6 +808,7 @@ as-rusia
 asaf
 asal
 asap
+asas
 asean
 asesmen
 aset
@@ -1001,6 +1005,7 @@ ballard
 ballot
 ballots
 ballys
+balochistan
 baluchistan
 bambang
 bamsoet
@@ -1343,6 +1348,7 @@ bidets
 bidik
 big
 biggest
+bighunnah
 bike
 bikin
 bila
@@ -1412,6 +1418,7 @@ blitz
 blizzard
 bloc
 block
+blockbuster
 blocking
 blocks
 bloggers
@@ -1435,6 +1442,8 @@ bni
 bo
 board
 boarder
+boarding
+boards
 boat
 boater
 boba
@@ -1567,6 +1576,7 @@ brittney
 broad
 broadcasting
 broadcasts
+broadcoms
 broadway
 broccoli
 broja
@@ -1896,6 +1906,7 @@ chase
 chasing
 chat
 chatgpt
+cheap
 cheaper
 check
 checks
@@ -2102,11 +2113,13 @@ complex
 complicated
 complication
 complicity
+compost
 composting
 comprehensive
 computer
 computers
 concedes
+concept
 concerned
 concerning
 concerns
@@ -2157,6 +2170,7 @@ contest
 context
 continue
 continues
+contoh
 contract
 contracting
 contractor
@@ -2286,6 +2300,7 @@ cryptominers
 crypts
 crystal
 cs
+csu
 ctu
 cu
 cuaca
@@ -2616,6 +2631,7 @@ dibanding
 dibantah
 dibawa
 dibayar
+diberhentikan
 dibersihkan
 dibicarakan
 dibintangi
@@ -2874,6 +2890,7 @@ divonis
 divorce
 divorcees
 diwacanakan
+diyakini
 djaja
 djaya
 djelantik
@@ -2940,9 +2957,11 @@ dorongan
 dos
 dosen
 double
+double-digit
 doubled
 doubles
 doubt
+doubts
 douglas
 dovish
 dow
@@ -3018,6 +3037,7 @@ duit
 duitnya
 dukung
 dukungan
+dukungannya
 dulu
 dumps
 dumpster
@@ -3145,6 +3165,7 @@ emmys
 emosi
 emotional
 empat
+empire
 employee
 employees
 employment
@@ -3270,6 +3291,7 @@ ex
 ex-boyfriend
 ex-deputy
 ex-gambian
+ex-german
 ex-ireland
 ex-la
 ex-lawmaker
@@ -3563,6 +3585,7 @@ forced
 forces
 forcing
 ford
+fore
 forecast
 foreign
 foreigners
@@ -3716,6 +3739,7 @@ gatsu
 gauff
 gaungkan
 gave
+gavin
 gawat
 gay
 gaya
@@ -3819,12 +3843,14 @@ gni
 go
 goa
 goal
+goblins
 gocap
 goes
 gogh
 going
 gold
 golden
+goldman
 golf
 golkan
 golkar
@@ -3966,6 +3992,7 @@ haji
 hak
 hakim
 hal
+halal
 halaman
 haley
 haleys
@@ -4323,8 +4350,10 @@ id
 ideal
 ideas
 identified
+identifying
 identity
 ideology
+idgham
 idol
 idolaku
 idols
@@ -4457,6 +4486,7 @@ informs
 infrastructure
 infrastruktur
 infringement
+ingat
 ingatkan
 inggris
 ingin
@@ -4496,6 +4526,7 @@ institute
 institutionalized
 instructs
 instruments
+insult
 insurance
 insurrectionist
 integration
@@ -4634,6 +4665,7 @@ jahanam
 jahat
 jail
 jailed
+jajaran
 jakarta
 jakarta-bandung
 jakarta-labuan
@@ -4846,6 +4878,7 @@ kalap
 kalau
 kalbar
 kali
+kalor
 kalteng
 kaluuya
 kamar
@@ -4917,6 +4950,7 @@ ke-10
 ke-26
 ke-4
 ke-52
+ke-75
 ke-78
 keadaan
 keadilan
@@ -4972,6 +5006,7 @@ kekasih
 kekerasan
 kekeringan
 kekhawatiran
+kekinian
 kekuasaan
 kekuatan
 kekurangan
@@ -5092,6 +5127,7 @@ ketahui
 ketakutan
 ketar-ketir
 ketat
+ketegangan
 ketenagakerjaan
 keterampilan
 keterbatasan
@@ -5245,6 +5281,7 @@ kontrakan
 kontraktor
 kontrol
 kontroversi
+konveksi
 konversi
 koordinasi
 koper
@@ -5365,6 +5402,7 @@ lakukan
 lala
 lalin
 lalla
+lallas
 lalu
 lama
 lamban
@@ -5777,6 +5815,7 @@ maldives
 malibu
 malicious
 maling
+malls
 malone
 malware
 mama
@@ -5988,6 +6027,7 @@ memaksimalkan
 memalukan
 memanas
 memangnya
+membacanya
 membaik
 membantu
 membeku
@@ -6041,6 +6081,7 @@ mengakui
 mengalir
 mengandung
 mengapa
+mengarahkan
 mengaspal
 mengecor
 mengejutkan
@@ -6110,6 +6151,7 @@ merdekacom
 merek
 mereka
 meresmikan
+merger
 meriahnya
 merona
 merongrong
@@ -6142,6 +6184,7 @@ michel
 michelle
 michigan
 microelectronics
+microplastics
 micros
 microsoft
 microsofts
@@ -6283,6 +6326,7 @@ monoxide
 monsoon
 monster
 monsters
+montessus
 month
 months
 monumen
@@ -6465,6 +6509,7 @@ navy
 naysayers
 nazapi
 nazi
+nazi-collaborators
 nazis
 nba
 nbas
@@ -6669,6 +6714,7 @@ nyaris
 nyata
 nyatakan
 nyc
+nyepi
 nyinyirin
 nyoblos
 nypd
@@ -6887,6 +6933,7 @@ pakan
 pakar
 paket
 pakistan
+pakistan-iran
 pakistani
 pakistans
 paksa
@@ -7165,6 +7212,7 @@ pencari
 pencoblosan
 pendanaan
 pendapat
+pendek
 pendengarnya
 pendidikan
 pending
@@ -7257,6 +7305,7 @@ perangnya
 peras
 perawatannya
 perayaan
+perbaikan
 perbaiki
 perbankan
 perbanyak
@@ -7318,6 +7367,7 @@ pernyataan
 perombakan
 perpanjang
 perpecahan
+perpindahan
 perppu
 perrys
 persecuted
@@ -7496,6 +7546,7 @@ pltu
 plug
 plugin
 plummeted
+plummets
 plunge
 pluribus
 plus
@@ -7667,6 +7718,7 @@ president
 presidential
 presidents
 press
+presses
 prestigious
 pretty
 prevent
@@ -7992,6 +8044,7 @@ rebel
 rebels
 reboot
 rebound
+rebounded
 rebuffs
 recall
 recalls
@@ -8311,6 +8364,7 @@ rombongan
 rompas
 romping
 romusha
+romy
 ron
 roosevelt
 rooted
@@ -8472,6 +8526,7 @@ salutatorian
 salute
 sam
 sama
+sambut
 same
 sampah
 sampai
@@ -8527,6 +8582,7 @@ saying
 saykoji
 says
 sayuri
+sbastien
 sby
 sc
 scamming
@@ -8797,6 +8853,7 @@ sfo
 shadow
 shakahola
 shake
+shaking
 shaky
 shame
 shander
@@ -8918,6 +8975,7 @@ silva
 sim
 simak
 simbol
+simi
 simmons
 simon
 simons
@@ -8975,6 +9033,7 @@ sixers
 sixth-grade
 skandal
 skating
+skb
 skellefte
 skelton
 skema
@@ -9006,6 +9065,7 @@ slow-starting
 slowdown
 slowly
 slows
+sludge
 slushy
 sma
 small
@@ -9104,8 +9164,11 @@ sosialisasi
 sosialisasikan
 sosok
 sosoknya
+sound
 soundtrack
 soup
+source
+sources
 south
 southern
 southland
@@ -9624,6 +9687,7 @@ teases
 teasing
 tebak
 tebal
+tebar
 tebas
 tebet
 tebu
@@ -9769,6 +9833,7 @@ terminal
 ternyata
 teroris
 terpanjang
+terpengaruh
 terpercaya
 terpidana
 terpisah
@@ -9820,6 +9885,7 @@ thai
 thailand
 thamrin
 than
+thanks
 that
 thats
 thc
@@ -10073,6 +10139,7 @@ trigger
 triggered
 triggers
 trik
+trikon
 triliun
 triliunan
 trims
@@ -10574,6 +10641,7 @@ whatsapp
 wheat
 wheel
 when
+whenever
 where
 which
 while
@@ -10667,6 +10735,7 @@ words
 work
 worker
 workers
+workforce
 working
 workplace
 works
@@ -10732,6 +10801,7 @@ yes
 yet
 yo
 yoasobi
+yogyakarta
 yordania
 york
 you
