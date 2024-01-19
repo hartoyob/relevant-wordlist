@@ -2396,6 +2396,7 @@ EU
 EV
 EVs
 EX
+EXO
 Each
 Eagle
 Eaglecrest
@@ -3582,6 +3583,7 @@ Jatim
 Jatuh
 Jauh
 Jawa
+Jawa-Sumatra
 Jawab
 Jawaban
 JayO
@@ -3747,6 +3749,7 @@ Kades
 Kaduna
 Kaesang
 Kaget
+Kai
 Kain
 Kaji
 Kakao
@@ -3847,6 +3850,7 @@ Kecewa
 Kecil
 Kecintaannya
 Kecuali
+Kecurangan
 Kedatangan
 Kedekatan
 Kedepan
@@ -4376,6 +4380,7 @@ Ligamen
 Light
 Lightfoot
 Lights
+Lihat
 Like
 Likely
 Likuiditas
@@ -4391,6 +4396,7 @@ Lindy
 Line
 Lineup
 Lingkungan
+Lini
 Link
 Links
 Lintas
@@ -5789,6 +5795,7 @@ Pendidikan
 Penduduk
 Pendukung
 Peneliti
+Penelitian
 Penembakan
 Penemuan
 Penentu
@@ -6543,6 +6550,7 @@ Riya
 Riyanto
 Rizh
 Road
+Roadshow
 Rob
 Robbery
 Robek
@@ -7121,6 +7129,7 @@ Sirianni
 Siriannis
 Sirna
 Sisa
+Sisir
 Siskaeee
 Sistem
 Siswa
@@ -7950,6 +7959,7 @@ Tukang
 Tukar
 Tumbang
 Tumbuh
+Tumpulnya
 Tunai
 Tunda
 Tune
@@ -8125,6 +8135,7 @@ Vaksin
 Valley
 Van
 Vans
+Variabel
 Vehicle
 Vella
 Ventura
@@ -8225,6 +8236,7 @@ Wallenstein
 Walmart
 Walter
 Wamen
+Wamil
 Wang
 Wanita
 Want
@@ -9082,6 +9094,7 @@ closely
 closer
 closes
 closing
+closings
 closure
 closures
 cloud

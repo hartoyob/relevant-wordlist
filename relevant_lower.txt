@@ -2037,6 +2037,7 @@ closer
 closes
 closet
 closing
+closings
 closure
 closures
 cloud
@@ -3337,6 +3338,7 @@ exhibition
 exist
 existence
 exit
+exo
 exonerate
 exoneration
 expand
@@ -4745,6 +4747,7 @@ jatuh
 jauh
 jaw
 jawa
+jawa-sumatra
 jawab
 jawaban
 jaya
@@ -5001,6 +5004,7 @@ kecewa
 kecil
 kecintaannya
 kecuali
+kecurangan
 kedatangan
 kedekatan
 kedepan
@@ -5615,6 +5619,7 @@ ligamen
 light
 lightfoot
 lights
+lihat
 like
 likely
 likened
@@ -5631,6 +5636,7 @@ lindy
 line
 lineup
 lingkungan
+lini
 link
 linked
 links
@@ -7262,6 +7268,7 @@ pending
 penduduk
 pendukung
 peneliti
+penelitian
 penembakan
 penemuan
 penentu
@@ -8382,6 +8389,7 @@ rk
 rm
 road
 roads
+roadshow
 rob
 robbery
 robek
@@ -9064,6 +9072,7 @@ sirianni
 siriannis
 sirna
 sisa
+sisir
 siskaeee
 sistem
 sister
@@ -10246,6 +10255,7 @@ tumble-
 tumbles
 tumbuh
 tumbuhkan
+tumpulnya
 tunai
 tunda
 tune
@@ -10472,6 +10482,7 @@ van
 vandalism
 vandalized
 vans
+variabel
 vaulter
 vax
 vehicle
@@ -10597,6 +10608,7 @@ wallenstein
 walmart
 walter
 wamen
+wamil
 wang
 wanita
 want
