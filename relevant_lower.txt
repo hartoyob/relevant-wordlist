@@ -3418,6 +3418,7 @@ ait-nouri
 aiv
 aj
 aja
+ajak
 ajax
 ajay
 ajayi
@@ -3856,6 +3857,7 @@ amplifrons
 amplify
 amplifying
 amplitude
+amputasi
 amputated
 amputee
 amro
@@ -3872,6 +3874,7 @@ anaconda
 anaesthesiology
 anaheim
 anais
+anak
 analogies
 analysing
 analysis
@@ -5117,6 +5120,7 @@ bags
 baguette
 bah
 bahamas
+bahas
 bahia
 bahjeera
 bahrain
@@ -5238,11 +5242,13 @@ banerjee
 bang
 bangalore
 banged-up
+banget
 bangkok
 bangladesh
 bangladeshi
 bangs
 bangsamoro
+bangun
 banished
 baniya
 banjo
@@ -5380,6 +5386,7 @@ bartrams
 barts
 barty
 bartys
+baru
 baruah
 barwar
 barystachys
@@ -5555,6 +5562,7 @@ beauty
 beautyblender
 beauvillier
 beaxy
+bebas
 bec
 became
 because
@@ -5747,6 +5755,7 @@ berandette
 berardi
 berardis
 berating
+berburu
 berdoba
 bergamo
 berge
@@ -5781,6 +5790,7 @@ berrettini
 berrios
 berros
 berry
+bersih
 bert
 bertans
 berth
@@ -5791,6 +5801,7 @@ bertolini
 bertrando
 berw
 berwyn
+besar-besaran
 beside
 besieged
 besos
@@ -5951,11 +5962,13 @@ bike
 biker
 bikers
 bikes
+bikin
 bikini
 bikinis
 bikkhov
 bikroo
 bilal
+bilang
 bilateral
 bilbao
 biles
@@ -7089,7 +7102,9 @@ builds
 buildup
 built
 built-in
+bukan
 bukit
+bulan
 bulgaria
 bulgarian
 bulgarians
@@ -7118,6 +7133,7 @@ bully
 bullying
 bum
 bumble
+bumi
 bummer
 bump
 bumpkins
@@ -7184,11 +7200,13 @@ burnout
 burns
 burnside
 burnsville
+buron
 burquest
 burr
 burrito
 burrow
 burrows
+bursa
 burst
 burt
 burton
@@ -7540,6 +7558,7 @@ canteen
 cantel
 canterbury
 cantero
+cantik
 cantimpr
 canton
 cantt
@@ -8544,6 +8563,7 @@ cigarette
 cigarettes
 cigna
 cilantro-lime
+cilegon
 cilfrew
 ciliolata
 cillizza
@@ -10213,6 +10233,7 @@ cultural
 culture
 cultures
 culvert
+cuma
 cumberbatch
 cumbrias
 cummings
@@ -10482,12 +10503,14 @@ danville
 daos
 dapper
 dapps
+dapur
 dar
 darcy
 dardoch
 dare
 dared
 darensbourg
+dari
 daria
 darien
 darin
@@ -10989,6 +11012,7 @@ dendrrijs
 denelle
 deneuve
 deng
+dengan
 dengue
 deni
 denial
@@ -11279,6 +11303,7 @@ dhec
 dhs
 dhungel
 di
+di-upgrade
 dia
 diabetes
 diabetic
@@ -11305,6 +11330,7 @@ diamondbacks-braves
 diamonds
 dian
 diana
+diandalkan
 diane
 dianna
 dianne
@@ -11321,6 +11347,7 @@ diavol
 diaz
 diaz-canel
 diazs
+dibuka
 dicaprio
 dice
 dicellomyces
@@ -11369,6 +11396,7 @@ dietitian
 dietitians
 dietrich
 diets
+difabel
 differ
 difference
 differences
@@ -11394,6 +11422,7 @@ dignified
 dignity
 digs
 digvijaya
+diintai
 dike
 dikeledi
 dil
@@ -11405,6 +11434,7 @@ dilophospora
 dilruk
 dilworth
 dim
+dimasak
 dimension
 dimi
 diminish
@@ -11443,6 +11473,7 @@ dion
 diontae
 dioxide
 dip
+dipasarkan
 diphyonyx
 diplococcium
 diplomacy
@@ -11454,6 +11485,7 @@ diplopsalis
 dipper
 dipping
 dips
+dirahasiakan
 dire
 direct
 directed
@@ -12017,6 +12049,7 @@ dp
 dpc
 dpm
 dpoy
+dpr
 dps
 dpscd
 dpw
@@ -15019,6 +15052,7 @@ freddie
 freddy
 frederick
 fredj
+fredly
 fredricks
 free
 free-kick
@@ -15385,6 +15419,7 @@ gaming
 gamma
 gan
 ganassi
+gandeng
 gandhi
 gang
 gang-like
@@ -15394,6 +15429,7 @@ gang-ruled
 gang8217
 ganga
 ganganath
+gangguan
 ganging
 ganglands
 gangnam
@@ -15551,6 +15587,8 @@ gellars
 gelsinger
 gelsons
 gem
+gemas
+gemesin
 gemini
 gemitaiz
 gemma
@@ -15667,6 +15705,7 @@ gettleman
 gettr
 getty
 geveke
+gewa
 geyger
 geylang
 gfn
@@ -15676,6 +15715,7 @@ ghana
 ghanas
 ghanem
 ghaus
+ghazali
 ghazi
 gheorghe
 ghislaine
@@ -16387,6 +16427,7 @@ guatemala
 guatemalan
 guatemalas
 gubernatorial
+gubernur
 gucci
 guelders
 guentzel
@@ -16441,6 +16482,7 @@ gulls
 gulval
 gumbo
 gumbu
+gumilang
 gummadi
 gummies
 gummy
@@ -17984,6 +18026,7 @@ i-team
 iache
 iaf
 iag
+iago
 ian
 iannellis
 ianthe
@@ -18106,6 +18149,7 @@ ikea
 ikeas
 ikiztepe
 ikon
+ikut
 il
 il-78
 ilan
@@ -18513,6 +18557,7 @@ inheriting
 inherits
 inhospitable
 inhumane
+ini
 initial
 initially
 initiated
@@ -18834,6 +18879,7 @@ iocs
 iommic
 ion
 iona
+iori
 ios
 iot
 iotex
@@ -18915,6 +18961,7 @@ isidoro
 isil
 isils
 isis
+iskandar
 isla
 islam
 islamic
@@ -19009,6 +19056,7 @@ ix
 iyer
 izaac
 izquierdo
+izz
 j
 j-lo
 j2
@@ -19038,6 +19086,7 @@ jacqueline
 jacques
 jade
 jaded
+jadi
 jadvyga
 jae-in
 jaff
@@ -19223,11 +19272,13 @@ jefri
 jehan
 jehanne
 jehovahs
+jejak
 jelle
 jelly
 jemalong
 jen
 jenas
+jenin
 jenis
 jenkins
 jenkintown
@@ -19243,6 +19294,7 @@ jensen
 jeopardise
 jeopardize
 jeopardy
+jepang
 jepperson
 jepsen
 jeremiah
@@ -19326,6 +19378,7 @@ jirau
 jitsu
 jitters
 jittery
+jitu
 jiu
 jj
 jjs
@@ -19498,6 +19551,7 @@ judon
 judons
 judson
 judy
+juga
 juggle
 juggles
 juggling
@@ -19845,8 +19899,10 @@ kellys
 kelp
 kelsea
 kelsey
+keluarga
 kelvin
 kemba
+kembar
 kemerovo
 kemp
 kempe
@@ -19881,11 +19937,13 @@ kenyan-ugandan
 kenyas
 kenyatta
 keothavong
+kependudukan
 kepler
 kept
 kerala
 kerber
 kering
+kerja
 kerman
 kermanshahan
 kern
@@ -19895,6 +19953,7 @@ kerr-mcgee
 kerry
 kerssenbrock
 kerstein
+keseruan
 kesha
 keshas
 kesly
@@ -20241,9 +20300,11 @@ koreatown
 korenar
 kori
 korkmaz
+korlantas
 korobeynikova
 koroscik
 kors
+korsel
 kortenska
 kortunov
 koruma
@@ -20338,6 +20399,8 @@ kuemper
 kueng
 kuiper
 kulesh
+kuliner
+kulit
 kulkarni
 kulynychi
 kumail
@@ -20497,6 +20560,7 @@ lambasts
 lambert
 lambin
 lamborghini
+lambung
 lamellilatirus
 lamelo
 laments
@@ -20551,6 +20615,7 @@ lange
 langer
 langham
 langley
+langsung
 language
 languishing
 langur
@@ -21057,6 +21122,7 @@ librarians
 libraries
 library
 libs
+liburan
 libya
 libyan
 libyas
@@ -21190,6 +21256,7 @@ lindo
 lindor
 lindsay
 lindsey
+lindungi
 line
 line-up
 lineage
@@ -21615,6 +21682,7 @@ luckiest
 lucknow
 lucky
 lucrative
+lucu
 lucy
 lucyna
 ludacris
@@ -21915,6 +21983,7 @@ majority
 majors
 majury
 mak
+makanan
 makar
 makariv
 make
@@ -22293,6 +22362,7 @@ maserati
 mash
 mashawn
 masi
+masih
 masjid
 mask
 mask-burning
@@ -22343,6 +22413,7 @@ masvidals
 masvisal
 mat
 matagorda
+matahari
 matar
 match
 match-fixing
@@ -22749,6 +22820,7 @@ menchaca
 menconvicted
 mend
 mendes
+mendiang
 mendis
 mendocino
 mendon
@@ -22800,6 +22872,7 @@ merckxs
 mercury
 mercurys
 mercy
+merdekacom
 merely
 merge
 merger
@@ -22843,6 +22916,7 @@ messiness
 messing
 messy
 mester
+mesti
 met
 meta
 metabolism
@@ -23165,6 +23239,7 @@ minshew
 minsk
 minsks
 mint
+minum
 minus
 minute
 minutemen
@@ -23319,6 +23394,7 @@ moaning
 mob
 mobap
 mobbed
+mobil-mobilnya
 mobile
 mobile-hacking
 mobiles
@@ -23423,6 +23499,7 @@ molyneux
 mom
 mom-friendly
 moma
+momen
 moment
 moments
 momentum
@@ -25865,6 +25942,7 @@ palazzo
 paleoanthropologist
 paleontologists
 palermo
+palestina
 palestinian
 palestinians
 palia
@@ -25896,12 +25974,14 @@ paltrow
 paltry
 pam
 pamela
+pameran
 pampers
 pamuk
 pan
 panama
 panamas
 panarin
+panas
 pancake
 pancakeswap
 panciera
@@ -25929,6 +26009,7 @@ pangaea
 pani
 panic
 panjang
+panji
 pankaj
 panky
 panmod
@@ -26329,6 +26410,7 @@ pekarek
 peko
 pel
 pelakon
+pelamar
 pelican
 pelicans
 pelini
@@ -26341,11 +26423,17 @@ pelotons
 pelt
 pelted
 peltz
+pemain
+pembaca
+pembangunan
 pembroke
+pemkot
 pen
 penalized
 penalties
 penalty
+penampakan
+penasaran
 pence
 pences
 penco
@@ -26358,6 +26446,7 @@ penfaulkner
 peng
 penguin
 penguins
+pengumuman
 peni
 peninsula
 penis
@@ -26499,6 +26588,7 @@ persson
 persuading
 persuasion
 pertaining
+pertamax
 perth
 perths
 pertiwi
@@ -26750,6 +26840,7 @@ pinch
 pinch-hit
 pinching
 pinda
+pindah
 pine
 pineapple
 pineda
@@ -27045,6 +27136,7 @@ pogona
 pogorely
 poh
 pohlman
+pohon
 poikilolaimus
 point
 pointe
@@ -27084,6 +27176,7 @@ polarized
 polaroid
 polaroids
 pole
+polemik
 poles
 polestar
 polettis
@@ -27105,6 +27198,7 @@ polio
 polion
 polis
 polish
+polisi
 politburo
 political
 politically
@@ -27131,6 +27225,7 @@ pollution
 polnyi
 polo
 polokwane
+polri
 pols
 poluyanov
 poluyanova
@@ -27333,6 +27428,7 @@ pothole
 potion
 potlikker
 potrero
+potret
 pots
 potter
 potterman
@@ -27608,6 +27704,7 @@ preyed
 preying
 preys
 prez
+pria
 price
 priced
 priceless
@@ -27755,6 +27852,7 @@ productions
 productive
 productivity
 products
+produktif
 profanity
 profanity-filled
 profess
@@ -28108,6 +28206,7 @@ putins
 putney
 putra
 putrajaya
+putri
 puts
 putsage
 putting
@@ -28516,6 +28615,7 @@ ranunculus
 raosaheb
 rap
 rapallini
+rapat
 rape
 rape-kit
 raped
@@ -28540,6 +28640,7 @@ rarity
 rarri
 ras-i
 rasa
+rasanya
 rascal
 rashawn
 rashford
@@ -29665,6 +29766,7 @@ rhs
 rhubarb
 rhys
 rhythm
+ri
 ria
 riado
 rialto
@@ -29674,6 +29776,7 @@ ribbing
 ribbon
 ribeiro
 ribs
+ribuan
 ric
 rica
 rican
@@ -29749,6 +29852,8 @@ rights
 rights-era
 righty
 rigs
+rihana
+rihani
 rihanna
 rihannas
 rik
@@ -30242,6 +30347,7 @@ rules
 ruling
 ruling-party
 rulings
+rumah
 rumble
 rumbles
 rumel
@@ -30368,6 +30474,7 @@ saba
 sabahy
 sabalenka
 saber
+sabet
 sabha
 sabina
 sable
@@ -30494,6 +30601,7 @@ sales
 salesforcecom
 salesman
 salesman-in-chief
+salfok
 salford
 sali
 salignac-fnelon
@@ -30589,6 +30697,7 @@ sanctions-linked
 sanctuary
 sand
 sand233
+sandal
 sandals
 sandalsand
 sandbag
@@ -30741,6 +30850,7 @@ saweetie
 sawmill
 sawtelle
 say
+sayang
 sayette
 saying
 sayn
@@ -31133,6 +31243,7 @@ seethed
 sega
 segal
 segars
+segera
 segment
 segregated
 segregation
@@ -31152,8 +31263,10 @@ seizes
 seizing
 seizure
 seizures
+sejak
 sekai
 selaheddin
+selama
 selangor
 selby
 select
@@ -31161,6 +31274,7 @@ selected
 selection
 selector
 selects
+seleksi
 selena
 self
 self-assessment
@@ -31198,6 +31312,8 @@ sells
 selma
 selo
 seltos
+semangat
+semarang
 semenovich
 semeru
 semester
@@ -31215,6 +31331,7 @@ seminoles
 semis
 semitruck
 semiulla
+sempat
 semyon
 sen
 sena
@@ -31290,9 +31407,11 @@ sequoia
 sequoias
 serai
 serang
+serangan
 serbia
 serbian
 serbs
+serbu
 serdar
 serena
 serenade
@@ -31806,10 +31925,12 @@ shuvam
 shuwala
 shy
 shyamalans
+si
 si-bone
 sia
 sialkot
 sian
+siap
 sias
 sibanda
 siberia
@@ -31830,6 +31951,7 @@ sickness
 sicknick
 sicknicks
 sickout
+sidang
 sidarta
 sidda
 siddhanta
@@ -32014,6 +32136,7 @@ siriannis
 sisan
 sisca
 sisenandus
+sistem
 sister
 sister-in-law
 sisterhood
@@ -32436,6 +32559,7 @@ so-called
 soak
 soaking
 soaks
+soal
 soap
 soapbox
 soaps
@@ -32556,6 +32680,7 @@ solos
 solovey
 sols
 solskjaer
+solusi
 solution
 solutions
 solve
@@ -33700,6 +33825,7 @@ suga
 sugar
 sugar-free
 sugared
+sugbk
 suge
 suggest
 suggesting
@@ -33735,6 +33861,7 @@ suleman
 sulemana
 sulli
 sullivan
+sulsel
 sultan
 sultans
 sum
@@ -33785,6 +33912,7 @@ sundown
 sunendra
 sunflow
 sunflower
+sungai
 sunglasses
 sunhoe
 sunk
@@ -33865,6 +33993,7 @@ superyacht
 superyachts
 supes
 supikova
+suplai
 suplee
 supper
 supplement
@@ -34337,6 +34466,7 @@ tan
 tanah
 tanahashi
 tanakas
+tanam
 tandem
 tanduk
 tandy
@@ -34561,6 +34691,7 @@ tekken
 tekkes
 teknik
 teknofest
+teknologi
 tel
 tel-aviv
 telecast
@@ -34610,6 +34741,7 @@ tempting
 temptresses
 tempur
 tems
+temukan
 ten
 ten-year
 tenant
@@ -34650,6 +34782,7 @@ teo
 tepid
 tequila
 terablock
+terbaik
 tercera
 terence
 teresa
@@ -34667,6 +34800,7 @@ termination
 terminations
 terminology
 terms
+ternyata
 terra
 terrafarma
 terrain
@@ -34691,6 +34825,7 @@ terrorists
 terrorized
 terrorizing
 terry
+tersipu
 tertia
 terzin
 tesco
@@ -34724,6 +34859,7 @@ tettidia
 tetyana
 teva
 tewai
+tewaskan
 texan
 texans
 texas
@@ -35071,6 +35207,7 @@ timers
 times
 timetable
 timing
+timnas
 timo
 timor
 timor-leste
@@ -35081,6 +35218,7 @@ tina
 tinder
 tinderbox
 ting
+tinggal
 tinker
 tinkering
 tinley
@@ -35108,6 +35246,7 @@ titan
 titanic
 titanics
 titans
+titian
 titicaca
 title
 titles
@@ -36353,6 +36492,7 @@ untold
 untouchable
 untouched
 untruth
+untuk
 unused
 unusual
 unusual-looking
@@ -37264,7 +37404,9 @@ waiver-wire
 waivers
 waives
 waiving
+wajah
 wajcblum
+wakapolri
 wake
 wakefield
 wakes
@@ -37368,6 +37510,7 @@ warehouse
 warfare
 warframe
 warframes
+warga
 wargames
 warhammer
 warheads
@@ -37892,6 +38035,7 @@ willow
 willowbrook
 willpower
 willson
+willy
 wilma
 wilmington
 wilson
@@ -38634,6 +38778,7 @@ zauner
 zaven
 zawiyas
 zayn
+zaytun
 zdeno
 zeal
 zealand
