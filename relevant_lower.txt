@@ -257,6 +257,7 @@ cerahkan
 cerai
 cerdas
 cerita
+cetak
 charles
 chat
 china
@@ -683,6 +684,7 @@ kirim
 klhk
 klimaks
 km
+koalisi
 kombes
 kompleksitas
 kondisi
@@ -969,6 +971,7 @@ passed
 pasukan
 paus
 pdip
+pdip-kubu
 pedesaan
 pedronbspcarrascalao
 pelakor
@@ -989,6 +992,7 @@ pembersihan
 pembully
 pembunuh
 pemeran
+pemerasan
 pemeriksaan
 pemerintah
 pemerkosa
@@ -1035,6 +1039,7 @@ perdana
 perdebatan
 perempatfinal
 perempuan
+periksa
 perjalanan
 perkaranya
 perkenalkan
@@ -1088,6 +1093,7 @@ pontianak
 potret
 pp
 ppat
+ppi
 ppln
 prabowo
 prabowo-anies
@@ -1208,6 +1214,7 @@ segarnya
 segera
 sehat
 sejak
+sejarah
 sejauh
 sejenis
 sejumlah
@@ -1312,6 +1319,7 @@ survei
 surya
 suspect
 swedia
+syl
 syur
 t
 tabrak

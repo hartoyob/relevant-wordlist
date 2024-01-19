@@ -256,6 +256,7 @@ Cerahkan
 Cerai
 Cerdas
 Cerita
+Cetak
 Charles
 Chat
 China
@@ -679,6 +680,7 @@ Kini
 Kirim
 Klimaks
 Km
+Koalisi
 Kombes
 Kompleksitas
 Kondisi
@@ -921,12 +923,14 @@ Organisasi
 Otto
 PAN
 PDIP
+PDIP-Kubu
 PIN
 PKB
 PKS
 PN
 PP
 PPAT
+PPI
 PPLN
 PSI
 PSMS
@@ -988,6 +992,7 @@ Pembersihan
 Pembully
 Pembunuh
 Pemeran
+Pemerasan
 Pemeriksaan
 Pemerintah
 Pemerkosa
@@ -1034,6 +1039,7 @@ Perdana
 Perdebatan
 Perempatfinal
 Perempuan
+Periksa
 Perjalanan
 Perkaranya
 Perkenalkan
@@ -1171,6 +1177,7 @@ SMRC
 SPBU
 STREAMING
 SUGBK
+SYL
 Saat
 Sabet
 Sadis
@@ -1204,6 +1211,7 @@ Segarnya
 Segera
 Sehat
 Sejak
+Sejarah
 Sejauh
 Sejenis
 Sejumlah
