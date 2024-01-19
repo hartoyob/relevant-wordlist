@@ -65,9 +65,11 @@
 15th
 16
 160
+167
 17
 17-year-old
 170
+171
 175
 178000
 18
@@ -79,6 +81,7 @@
 19
 191
 1912
+1945
 19467
 1951
 1956
@@ -608,6 +611,7 @@ analyst
 ancam
 ancaman
 ancang-ancang
+ancelotti
 anchor
 ancient
 and
@@ -1189,6 +1193,7 @@ belum
 bem
 ben
 benadryl
+benalu
 benar
 benarkan
 bencana
@@ -1554,6 +1559,7 @@ brenda
 brentford
 brewery
 bri
+brian
 brics
 bride
 bridge
@@ -2003,6 +2009,7 @@ classic
 classroom
 claudia
 claudias
+clay
 clayco
 cleaner
 cleaning
@@ -2426,6 +2433,7 @@ daya
 days
 daysofdensefog
 daywatch
+dc
 dc-based
 dcfx
 ddos
@@ -2553,6 +2561,7 @@ deretan
 dermaga
 des
 desa
+desai
 desain
 desak
 desantis
@@ -2762,6 +2771,7 @@ diperiksa
 diperintah
 diperkirakan
 diperkosa
+diperpanjang
 dipersulit
 diphtheria
 dipidana
@@ -2857,6 +2867,7 @@ ditangkap
 ditanya
 ditargetkan
 ditato
+ditemani
 ditembak
 ditemukan
 ditendang
@@ -2968,6 +2979,7 @@ dow
 down
 down-to-earth
 downed
+download
 downtown
 doyan
 dozens
@@ -3530,6 +3542,7 @@ flagship
 flashes
 flashpay
 flat
+flattens
 flaw
 flaws
 fleeing
@@ -3675,6 +3688,7 @@ fundraiser
 fundraising
 funds
 funeral
+fungsi
 furnaces
 further
 furue
@@ -3700,6 +3714,7 @@ gak
 gale-force
 galette
 gallery
+galungan
 gam
 gama
 gambian
@@ -4479,6 +4494,7 @@ inflasi
 inflation
 influencer
 infografis
+infonya
 informal
 informasi
 information
@@ -4576,6 +4592,7 @@ iowa
 ipe
 iphone
 ipo
+ips
 ipsos
 ipul
 irak
@@ -4982,6 +4999,7 @@ kedepan
 kedewasaan
 kedisiplinan
 kedua
+kedungwanglu
 keempat
 keempatnya
 keep
@@ -5099,6 +5117,7 @@ keren
 kereta
 keringat
 kerja
+kernet
 kerok
 keroyok
 kerr
@@ -5260,6 +5279,7 @@ kompolnas
 komponen
 kompor
 komunikasi
+komunitas
 komut
 kondisi
 kondisi-nasib
@@ -5730,6 +5750,7 @@ lunch
 luncur
 luncurkan
 lupa
+lurah
 lusa
 luxembourg
 luxury
@@ -5932,6 +5953,7 @@ materi
 mati
 matik
 matikan
+matt
 matter
 matters
 matthews
@@ -5996,6 +6018,7 @@ mega
 megawati
 mei
 meja
+mekanisme
 meksiko
 melahapnya
 melahirkan
@@ -6763,6 +6786,7 @@ oh
 ohio
 oil
 ojk
+ojol
 okie
 oklahoma
 oknum
@@ -6848,6 +6872,7 @@ osbourne
 oscar
 oscompatible
 oshie
+oswald
 otentik
 other
 others
@@ -7074,6 +7099,7 @@ pathology
 patient
 patients
 patra
+patricia
 patrick
 patriotism
 patuh
@@ -7097,6 +7123,7 @@ pbb
 pbnu
 pd
 pdam
+pdf
 pdi
 pdip
 pdip-jokowi
@@ -7967,6 +7994,7 @@ raksasa
 rakyat
 rally
 ram
+ramadan
 ramadhan
 ramah
 ramai
@@ -8632,6 +8660,7 @@ se
 sea
 seafood
 seal
+sean
 search
 searches
 searching
@@ -8680,6 +8709,7 @@ seeks
 seemingly
 seen
 sees
+segalanya
 segarnya
 segera
 segini
@@ -9806,6 +9836,7 @@ teriak
 terikat
 terima
 terinspirasi
+terisolir
 terjadi
 terjang
 terjauh
@@ -10235,6 +10266,7 @@ tx
 ty
 tyler
 type
+typeface
 tyrol
 tyson
 u-17
@@ -10400,6 +10432,7 @@ utilities
 utter
 utusan
 uu
+uud
 uvalde
 v
 vacate

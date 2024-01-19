@@ -65,9 +65,11 @@
 15th
 16
 160
+167
 17
 17-year-old
 170
+171
 175
 178000
 18
@@ -79,6 +81,7 @@
 19
 191
 1912
+1945
 19467
 1951
 1956
@@ -532,6 +535,7 @@ AnalysisChinese
 Ancam
 Ancaman
 Ancang-Ancang
+Ancelotti
 Anchor
 Ancient
 And
@@ -1019,6 +1023,7 @@ Beloved
 Belum
 Ben
 Benadryl
+Benalu
 Benar
 Benarkan
 Bencana
@@ -1288,6 +1293,7 @@ Breckenridge
 Brenda
 Brentford
 Brewery
+Brian
 Bridge
 Brief
 Briefing
@@ -1611,6 +1617,7 @@ Class
 Classroom
 Claudia
 Claudias
+Clay
 Clayco
 Cleaning
 Clearing
@@ -1807,6 +1814,7 @@ D-Link
 DA
 DALAM
 DAngelo
+DC
 DC-based
 DCFX
 DDoS
@@ -1973,6 +1981,7 @@ Deras
 Deretan
 Dermaga
 Desa
+Desai
 Desain
 Desak
 Desari
@@ -2156,6 +2165,7 @@ Diperiksa
 Diperintah
 Diperkirakan
 Diperkosa
+Diperpanjang
 Dipersulit
 Diphtheria
 Dipidana
@@ -2223,6 +2233,7 @@ Ditangkap
 Ditanya
 Ditargetkan
 Ditato
+Ditemani
 Ditembak
 Ditemukan
 Ditendang
@@ -2304,6 +2315,7 @@ Douglas
 Dovish
 Dow
 Down
+Download
 Doyan
 Dozens
 Dr
@@ -2371,6 +2383,7 @@ EPS
 ERP
 ESDM
 ESG
+ET
 ETF
 EU
 EV
@@ -2753,6 +2766,7 @@ Fundamental
 Fundamentally
 Fundraiser
 Funeral
+Fungsi
 Furue
 Fury
 Future
@@ -2783,6 +2797,7 @@ Gaje
 Gaji
 Gak
 Gallery
+Galungan
 Gambian
 Game
 Games
@@ -3278,6 +3293,7 @@ IN
 INS
 IPE
 IPO
+IPS
 IPSOS
 ISD
 IT
@@ -3372,6 +3388,7 @@ Infinite
 Inflasi
 Influencer
 Infografis
+Infonya
 Informal
 Informasi
 Infrastruktur
@@ -3828,6 +3845,7 @@ Kedepan
 Kedewasaan
 Kedisiplinan
 Kedua
+Kedungwanglu
 Keempat
 Keempatnya
 Keeping
@@ -3941,6 +3959,7 @@ Keren
 Kereta
 Keringat
 Kerja
+Kernet
 Kerok
 Keroyok
 Kerr
@@ -4075,6 +4094,7 @@ Kompolnas
 Komponen
 Kompor
 Komunikasi
+Komunitas
 Komut
 Kondisi
 Kondisi-Nasib
@@ -4446,6 +4466,7 @@ Lunas
 Luncur
 Luncurkan
 Lupa
+Lurah
 Lusa
 Luxembourg
 Luxury
@@ -4646,6 +4667,7 @@ Materi
 Mati
 Matik
 Matikan
+Matt
 Matters
 Matthews
 Mau
@@ -4700,6 +4722,7 @@ Meetpoint
 Mega
 Megawati
 Mei
+Mekanisme
 Meksiko
 Melahapnya
 Melahirkan
@@ -4967,6 +4990,7 @@ Mojokerto
 Molen
 Mom
 Momen
+Moment
 Monarch
 Monas
 Moncer
@@ -5338,6 +5362,7 @@ Ogah
 Oh
 Ohio
 Oil
+Ojol
 Okie
 Oklahoma
 Oknum
@@ -5400,6 +5425,7 @@ Osbourne
 Oscar
 Oscompatible
 Oshie
+Oswald
 Otentik
 Other
 Others
@@ -5433,6 +5459,7 @@ PBB
 PBNU
 PD
 PDAM
+PDF
 PDI
 PDIP
 PDIP-Jokowi
@@ -5619,6 +5646,7 @@ Patahkan
 Patch
 Patches
 Patra
+Patricia
 Patrick
 Patuh
 Patung
@@ -6279,6 +6307,7 @@ Rakabuming
 Raksasa
 Rakyat
 Ram
+Ramadan
 Ramadhan
 Ramah
 Ramai
@@ -6770,6 +6799,7 @@ Scotland
 Scott
 SdanP
 Sea
+Sean
 Search
 Season
 Seasons
@@ -6806,6 +6836,7 @@ Seek
 Seeking
 Seeks
 Sees
+Segalanya
 Segarnya
 Segera
 Segini
@@ -7629,6 +7660,7 @@ Teriak
 Terikat
 Terima
 Terinspirasi
+Terisolir
 Terjadi
 Terjang
 Terjauh
@@ -7948,6 +7980,7 @@ US
 US-made
 USTR
 UU
+UUD
 Uang
 Uangnya
 Uap
@@ -9691,6 +9724,7 @@ flag
 flagship
 flashes
 flat
+flattens
 fleeing
 flew
 flight
@@ -11336,6 +11370,7 @@ series
 serious
 serve
 services
+sesuai
 set
 setbacks
 sets
@@ -11728,6 +11763,7 @@ temps
 tengah
 tensions
 tent
+tentang
 tentative
 terapkan
 terhadap
@@ -11906,6 +11942,7 @@ two
 two-game
 two-year-olds
 type
+typeface
 uji
 ultimate
 unavailable
